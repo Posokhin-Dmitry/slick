@@ -27,7 +27,7 @@
     top: 30px;
     width: 54px;
     height: 40px;
-    background-image: url(../../images/image.png);
+    background-image: url(../images/image.png);
 
     @media screen and (min-width: 768px) {
       top: 17px;
@@ -42,7 +42,7 @@
     transform: translate(50%);
     width: 32px;
     height: 4px;
-    background-image: url(../../images/group.svg);
+    background-image: url(../images/group.svg);
 
     @media screen and (min-width: 768px) {
       top: calc(100% + 24px);
