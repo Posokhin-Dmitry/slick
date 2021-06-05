@@ -103,7 +103,7 @@ img {
   top: 30px;
   width: 54px;
   height: 40px;
-  background-image: url(../../images/“.png);
+  background-image: url(../../images/image.png);
 }
 
 @media screen and (min-width: 768px) {
@@ -120,7 +120,7 @@ img {
   transform: translate(50%);
   width: 32px;
   height: 4px;
-  background-image: url(../../images/Group.svg);
+  background-image: url(../../images/group.svg);
 }
 
 @media screen and (min-width: 768px) {
