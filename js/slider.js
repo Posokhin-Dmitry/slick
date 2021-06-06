@@ -3,7 +3,7 @@ $(document).ready(function () {
     arrows: false,
     dots: true,
     easing: 'easeInOutQuint',
-    autoplay: true,
+    autoplay: false,
     autoplaySpeed: 3000,
   })
 })
